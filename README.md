@@ -22,7 +22,7 @@ This simple Python console game allows you to challenge yourself in guessing a r
 
 1. Clone this repository to your local machine using `git clone`. 📁
 
-2. Run the game using the command: `python guess_the_number.py`. ⚙️
+2. Run the game using the command: `python guessthenumber.py`. ⚙️
 
 3. Follow the on-screen instructions to play the game. 🕹️
 
